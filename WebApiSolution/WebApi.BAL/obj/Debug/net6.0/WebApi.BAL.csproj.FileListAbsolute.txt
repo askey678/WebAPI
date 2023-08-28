@@ -1,0 +1,15 @@
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\bin\Debug\net6.0\WebApi.BAL.deps.json
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\bin\Debug\net6.0\WebApi.BAL.dll
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\bin\Debug\net6.0\WebApi.BAL.pdb
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\bin\Debug\net6.0\WebApi.DAL.dll
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\bin\Debug\net6.0\WebApi.DAL.pdb
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\obj\Debug\net6.0\WebApi.BAL.csproj.AssemblyReference.cache
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\obj\Debug\net6.0\WebApi.BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\obj\Debug\net6.0\WebApi.BAL.AssemblyInfoInputs.cache
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\obj\Debug\net6.0\WebApi.BAL.AssemblyInfo.cs
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\obj\Debug\net6.0\WebApi.BAL.csproj.CoreCompileInputs.cache
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\obj\Debug\net6.0\WebApi.BAL.csproj.CopyComplete
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\obj\Debug\net6.0\WebApi.BAL.dll
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\obj\Debug\net6.0\refint\WebApi.BAL.dll
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\obj\Debug\net6.0\WebApi.BAL.pdb
+D:\My Work\Sample Projects\WebApiSolution\WebApi.BAL\obj\Debug\net6.0\ref\WebApi.BAL.dll

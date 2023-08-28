@@ -1,0 +1,14 @@
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\obj\Release\net6.0\WebApi.DAL.csproj.AssemblyReference.cache
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\obj\Release\net6.0\WebApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\obj\Release\net6.0\WebApi.DAL.AssemblyInfoInputs.cache
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\obj\Release\net6.0\WebApi.DAL.AssemblyInfo.cs
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\obj\Release\net6.0\WebApi.DAL.csproj.CoreCompileInputs.cache
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\bin\Release\net6.0\WebApi.DAL.deps.json
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\bin\Release\net6.0\WebApi.DAL.runtimeconfig.json
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\bin\Release\net6.0\WebApi.DAL.dll
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\bin\Release\net6.0\WebApi.DAL.pdb
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\obj\Release\net6.0\WebApi.DAL.dll
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\obj\Release\net6.0\refint\WebApi.DAL.dll
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\obj\Release\net6.0\WebApi.DAL.pdb
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\obj\Release\net6.0\WebApi.DAL.genruntimeconfig.cache
+D:\My Work\Sample Projects\WebApiSolution\WebApi.DAL\obj\Release\net6.0\ref\WebApi.DAL.dll
